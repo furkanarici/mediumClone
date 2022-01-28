@@ -1,0 +1,30 @@
+.font-ptSerif {
+  font-family: "PT Serif", serif;
+}
+
+.bg-yellow {
+  background-color: #ffc017;
+}
+
+.border-bottom-1 {
+  border-bottom: 1px solid rgba(41, 41, 41);
+}
+
+.bg-image {
+  background-image: url(../image/head_image.png);
+  background-position: bottom 1px right;
+  background-size: 349px 353px;
+  background-repeat: no-repeat;
+}
+
+.top-nav-logo svg {
+  height: 25px;
+}
+
+.rounded-button {
+  border-radius: 50px !important;
+}
+
+.headerMargin{
+    padding-top: 55px !important;
+}
